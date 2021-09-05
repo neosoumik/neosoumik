@@ -3,7 +3,7 @@
 # I'm Soumith
 ## A Dev lost in this beautiful world of weird codes.
 
-- 🔭 I’m currently working on React.js and Flutter
+- 🔭 I’m currently working on Linux and Networks
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on crazy projects
 - 🤔 I’m looking for help with understanding bloody Docker
